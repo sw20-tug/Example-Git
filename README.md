@@ -8,3 +8,7 @@ This is a second README section
 
 # Section 4
 This is the fourth section
+
+# Section 3
+This is a third section
+
