@@ -5,3 +5,6 @@ Add new README section
 
 # Section 2
 This is a second README section
+
+# Section 3
+This is a third section
